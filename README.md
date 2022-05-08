@@ -3,6 +3,9 @@
 <!--
 **MileneRFerreira/MileneRFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+-->
+## Olá! Eu sou o Milene Ferreira 🖐️
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,12 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-## Olá! Eu sou o Milene Ferreira 🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milene-r-ferreira-b837781a3)
-@@ -9,7 +9,7 @@
 
 ## Tecnologias que eu uso no meu dia
 
@@ -27,7 +26,6 @@ Here are some ideas to get you started:
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-@@ -20,7 +20,7 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
