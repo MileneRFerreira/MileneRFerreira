@@ -19,7 +19,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milene-r-ferreira-b837781a3)
 
-[![Milene's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={MileneRFerreira}&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MileneRFerreira&langs_count=8)](https://github.com/MileneRFerreira/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
