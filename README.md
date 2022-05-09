@@ -7,14 +7,13 @@
 ## Olá! Eu sou o Milene Ferreira 🖐️
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on python development 
+- 🌱 I’m currently learning data analysis
+- 👯 I’m looking to collaborate on  machine learning or cybersecurity research
+- 💬 Ask me about computer science and romantic languagues
+- 📫 How to reach me: milenedarosaferreira@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: i learn italian in eight months
 
 [![Milene's GitHub stats](https://github-readme-stats.vercel.app/api?username=MileneRFerreira)](https://github.com/MileneRFerreira/github-readme-stats)
 
@@ -28,5 +27,5 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+love for research 
 
